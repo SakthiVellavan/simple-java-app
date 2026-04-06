@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Make another changes for second time");
+        System.out.println("Dummy String");
     }
 
     public String getMessage() {
