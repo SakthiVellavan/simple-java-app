@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Make another changes");
+        System.out.println("Modify to trigger poll scm build");
     }
 
     public String getMessage() {
